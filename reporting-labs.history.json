@@ -1,0 +1,368 @@
+[
+ {
+  "time": 1795140388236,
+  "duration": 95961.12700000001,
+  "passed": 35,
+  "failed": 8,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 43,
+  "tests": {
+   "chromium::tests/api/booking.api.spec.ts::booking CRUD with token": [
+    "f",
+    12514
+   ],
+   "chromium::tests/api/spotify.oauth2.spec.ts::get album data test": [
+    "p",
+    1347
+   ],
+   "chromium::tests/api/user.api.individual.spec.ts::create a user test": [
+    "p",
+    776
+   ],
+   "chromium::tests/api/user.api.individual.spec.ts::Update a user test": [
+    "p",
+    1131
+   ],
+   "chromium::tests/api/user.api.individual.spec.ts::delete a user test": [
+    "p",
+    992
+   ],
+   "chromium::tests/api/user.api.schema.spec.ts::get a user - schema test": [
+    "p",
+    503
+   ],
+   "chromium::tests/api/user.api.spec.ts::running e2e go rest crud apis tests › GET API - get all users": [
+    "p",
+    477
+   ],
+   "chromium::tests/api/user.api.spec.ts::running e2e go rest crud apis tests › Post API - create a user": [
+    "p",
+    452
+   ],
+   "chromium::tests/api/user.api.spec.ts::running e2e go rest crud apis tests › put API - update a user": [
+    "p",
+    435
+   ],
+   "chromium::tests/api/user.api.spec.ts::running e2e go rest crud apis tests › Delete API - delete a user": [
+    "p",
+    421
+   ],
+   "chromium::tests/api/user.practice.api.spec.ts::get all users api test": [
+    "p",
+    459
+   ],
+   "chromium::tests/api/user.practice.api.spec.ts::create a user POST api test": [
+    "f",
+    302
+   ],
+   "chromium::tests/api/user.practice.api.spec.ts::Update a user Put api test": [
+    "f",
+    386
+   ],
+   "chromium::tests/api/user.practice.api.spec.ts::Delete a user Delete api test": [
+    "f",
+    503
+   ],
+   "chromium::tests/homePage.spec.ts::homepage title test": [
+    "p",
+    9068
+   ],
+   "chromium::tests/homePage.spec.ts::logout link exist test": [
+    "p",
+    6968
+   ],
+   "chromium::tests/homePage.spec.ts::homepage exist test": [
+    "p",
+    3919
+   ],
+   "chromium::tests/homePageFix.spec.ts::homepage title test": [
+    "p",
+    4048
+   ],
+   "chromium::tests/homePageFix.spec.ts::logout link exist test": [
+    "p",
+    3737
+   ],
+   "chromium::tests/homePageFix.spec.ts::homepage exist test": [
+    "p",
+    3624
+   ],
+   "chromium::tests/intercept.spec.ts::intercept and log requests": [
+    "p",
+    2325
+   ],
+   "chromium::tests/intercept.spec.ts::mock search data api": [
+    "p",
+    395
+   ],
+   "chromium::tests/intercept.spec.ts::mock search data ": [
+    "p",
+    305
+   ],
+   "chromium::tests/LoginPage.spec.ts::login page title test": [
+    "f",
+    2345
+   ],
+   "chromium::tests/LoginPage.spec.ts::forgot pwd link exist test": [
+    "p",
+    2352
+   ],
+   "chromium::tests/LoginPage.spec.ts::user is able to logintest": [
+    "f",
+    50340
+   ],
+   "chromium::tests/loginpagefix.spec.ts::login page title test": [
+    "f",
+    2140
+   ],
+   "chromium::tests/loginpagefix.spec.ts::forgot pwd link exist test": [
+    "p",
+    2490
+   ],
+   "chromium::tests/loginpagefix.spec.ts::user is able to logintest": [
+    "p",
+    3595
+   ],
+   "chromium::tests/loginpagefix.spec.ts::login to app with invalid credentials -invalid@opne.com -wrong123": [
+    "p",
+    4354
+   ],
+   "chromium::tests/loginpagefix.spec.ts::login to app with invalid credentials - -pw123": [
+    "p",
+    4112
+   ],
+   "chromium::tests/loginpagefix.spec.ts::login to app with invalid credentials -pwapril@pw.com -pw124": [
+    "p",
+    3859
+   ],
+   "chromium::tests/productPage.spec.ts::verify prodcut header": [
+    "f",
+    4203
+   ],
+   "chromium::tests/productPage.spec.ts::verify prodcut Images count": [
+    "p",
+    5446
+   ],
+   "chromium::tests/productPage.spec.ts::verify prodcut information/Data": [
+    "p",
+    6880
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify search results count - macbook - MacBook Pro": [
+    "p",
+    3314
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify search results count - macbook - MacBook Air": [
+    "p",
+    2974
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify search results count - imac - iMac": [
+    "p",
+    3226
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify search results count - samsung - Samsung Galaxy Tab 10.1": [
+    "p",
+    2751
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify user is able to land on the prodcut page  -macbook - MacBook Pro": [
+    "p",
+    3800
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify user is able to land on the prodcut page  -macbook - MacBook Air": [
+    "p",
+    4299
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify user is able to land on the prodcut page  -imac - iMac": [
+    "p",
+    4214
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify user is able to land on the prodcut page  -samsung - Samsung Galaxy Tab 10.1": [
+    "p",
+    3466
+   ]
+  }
+ },
+ {
+  "time": 1795140574973,
+  "duration": 80137.922,
+  "passed": 35,
+  "failed": 8,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 43,
+  "tests": {
+   "chromium::tests/api/booking.api.spec.ts::booking CRUD with token": [
+    "f",
+    12295
+   ],
+   "chromium::tests/api/spotify.oauth2.spec.ts::get album data test": [
+    "p",
+    659
+   ],
+   "chromium::tests/api/user.api.individual.spec.ts::create a user test": [
+    "p",
+    551
+   ],
+   "chromium::tests/api/user.api.individual.spec.ts::Update a user test": [
+    "p",
+    942
+   ],
+   "chromium::tests/api/user.api.individual.spec.ts::delete a user test": [
+    "p",
+    1003
+   ],
+   "chromium::tests/api/user.api.schema.spec.ts::get a user - schema test": [
+    "p",
+    453
+   ],
+   "chromium::tests/api/user.api.spec.ts::running e2e go rest crud apis tests › GET API - get all users": [
+    "p",
+    487
+   ],
+   "chromium::tests/api/user.api.spec.ts::running e2e go rest crud apis tests › Post API - create a user": [
+    "p",
+    345
+   ],
+   "chromium::tests/api/user.api.spec.ts::running e2e go rest crud apis tests › put API - update a user": [
+    "p",
+    413
+   ],
+   "chromium::tests/api/user.api.spec.ts::running e2e go rest crud apis tests › Delete API - delete a user": [
+    "p",
+    307
+   ],
+   "chromium::tests/api/user.practice.api.spec.ts::get all users api test": [
+    "p",
+    403
+   ],
+   "chromium::tests/api/user.practice.api.spec.ts::create a user POST api test": [
+    "f",
+    423
+   ],
+   "chromium::tests/api/user.practice.api.spec.ts::Update a user Put api test": [
+    "f",
+    358
+   ],
+   "chromium::tests/api/user.practice.api.spec.ts::Delete a user Delete api test": [
+    "f",
+    351
+   ],
+   "chromium::tests/homePage.spec.ts::homepage title test": [
+    "p",
+    3103
+   ],
+   "chromium::tests/homePage.spec.ts::logout link exist test": [
+    "p",
+    3038
+   ],
+   "chromium::tests/homePage.spec.ts::homepage exist test": [
+    "p",
+    2587
+   ],
+   "chromium::tests/homePageFix.spec.ts::homepage title test": [
+    "p",
+    2456
+   ],
+   "chromium::tests/homePageFix.spec.ts::logout link exist test": [
+    "p",
+    2315
+   ],
+   "chromium::tests/homePageFix.spec.ts::homepage exist test": [
+    "p",
+    2539
+   ],
+   "chromium::tests/intercept.spec.ts::intercept and log requests": [
+    "p",
+    1427
+   ],
+   "chromium::tests/intercept.spec.ts::mock search data api": [
+    "p",
+    207
+   ],
+   "chromium::tests/intercept.spec.ts::mock search data ": [
+    "p",
+    167
+   ],
+   "chromium::tests/LoginPage.spec.ts::login page title test": [
+    "f",
+    1332
+   ],
+   "chromium::tests/LoginPage.spec.ts::forgot pwd link exist test": [
+    "p",
+    1343
+   ],
+   "chromium::tests/LoginPage.spec.ts::user is able to logintest": [
+    "f",
+    50077
+   ],
+   "chromium::tests/loginpagefix.spec.ts::login page title test": [
+    "f",
+    1500
+   ],
+   "chromium::tests/loginpagefix.spec.ts::forgot pwd link exist test": [
+    "p",
+    1488
+   ],
+   "chromium::tests/loginpagefix.spec.ts::user is able to logintest": [
+    "p",
+    4771
+   ],
+   "chromium::tests/loginpagefix.spec.ts::login to app with invalid credentials -invalid@opne.com -wrong123": [
+    "p",
+    3948
+   ],
+   "chromium::tests/loginpagefix.spec.ts::login to app with invalid credentials - -pw123": [
+    "p",
+    3422
+   ],
+   "chromium::tests/loginpagefix.spec.ts::login to app with invalid credentials -pwapril@pw.com -pw124": [
+    "p",
+    4224
+   ],
+   "chromium::tests/productPage.spec.ts::verify prodcut header": [
+    "f",
+    4516
+   ],
+   "chromium::tests/productPage.spec.ts::verify prodcut Images count": [
+    "p",
+    4872
+   ],
+   "chromium::tests/productPage.spec.ts::verify prodcut information/Data": [
+    "p",
+    5289
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify search results count - macbook - MacBook Pro": [
+    "p",
+    2941
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify search results count - macbook - MacBook Air": [
+    "p",
+    2787
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify search results count - imac - iMac": [
+    "p",
+    2865
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify search results count - samsung - Samsung Galaxy Tab 10.1": [
+    "p",
+    2801
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify user is able to land on the prodcut page  -macbook - MacBook Pro": [
+    "p",
+    4309
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify user is able to land on the prodcut page  -macbook - MacBook Air": [
+    "p",
+    4610
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify user is able to land on the prodcut page  -imac - iMac": [
+    "p",
+    3980
+   ],
+   "chromium::tests/searchhPage.spec.ts::verify user is able to land on the prodcut page  -samsung - Samsung Galaxy Tab 10.1": [
+    "p",
+    4330
+   ]
+  }
+ }
+]
