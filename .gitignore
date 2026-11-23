@@ -12,6 +12,9 @@ node_modules/
 /allure-results/
 / reporting-labs.history.json/
 
+#env files(confidential):
+config/.env.*
+
 
 
 
@@ -19,5 +22,5 @@ node_modules/
 dist/
 
 #OS files
-.ts_store
+.DS_Store
 
