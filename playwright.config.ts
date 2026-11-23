@@ -10,6 +10,7 @@ import dotenv from 'dotenv';
 
 const ENV = process.env.ENV || 'qa';
 
+
 const result = dotenv.config({
     path: `config/.env.${ENV}`,
     override: true
