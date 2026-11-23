@@ -13,8 +13,7 @@ node_modules/
 / reporting-labs.history.json/
 
 
-#env files (confidential):
-config/.env.*
+
 
 #build
 dist/
